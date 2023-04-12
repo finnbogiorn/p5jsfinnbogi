@@ -6,7 +6,6 @@ function setup(){
 }
 
 function draw() {
-  // draw() loops forever, until stopped
   let r = map(sin(frameCount * 0.03), -1, 1, 0, 255);
   let g = map(sin(frameCount * 0.05), -1, 1, 0, 255);
   let b = map(sin(frameCount * 0.07), -1, 1, 0, 255);
