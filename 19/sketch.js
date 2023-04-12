@@ -29,7 +29,6 @@ function setup() {
     push()
     fill(200)
     triangle(500, 400, 900, 100, 100, 100);
-    describe('white triangle with black outline in mid-right of canvas');
     pop()
     
     

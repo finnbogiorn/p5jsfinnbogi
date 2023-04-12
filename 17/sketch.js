@@ -27,8 +27,8 @@ function draw() {
   beginShape();
   vertex(200, 800);
   vertex(200, 550);
-  vertex(200 + d, 550); //glitch corner
-  vertex(200 + d, 450); //glitch corner
+  vertex(200 + d, 550);
+  vertex(200 + d, 450);
   vertex(200, 450);
   vertex(200, 200);
   vertex(350, 200);
@@ -36,26 +36,26 @@ function draw() {
   vertex(650, 200);
   vertex(800, 200);
   vertex(800, 450);
-  vertex(800 + d, 450); //glitch corner
-  vertex(800 + d, 550); //glitch corner
+  vertex(800 + d, 450); 
+  vertex(800 + d, 550);
   vertex(800, 550);
   vertex(800, 800);
   vertex(700, 800);
   vertex(700, 550);
-  vertex(700 + d, 550); //glitch corner
-  vertex(700 + d, 450); //glitch corner
+  vertex(700 + d, 550); 
+  vertex(700 + d, 450); 
   vertex(700, 450);
   vertex(700, 300);
   vertex(586, 450);
-  vertex(586 + d, 450); // glitch corner
-  vertex(550 + d, 500); //glitch
-  vertex(450 + d, 500); //glitch
-  vertex(414 + d, 450); //glitch corner
+  vertex(586 + d, 450); 
+  vertex(550 + d, 500); 
+  vertex(450 + d, 500); 
+  vertex(414 + d, 450); 
   vertex(414, 450);
   vertex(300, 300);
   vertex(300, 450);
-  vertex(300 + d, 450); //glitch corner
-  vertex(300 + d, 550); //glitch corner
+  vertex(300 + d, 450); 
+  vertex(300 + d, 550);
   vertex(300, 550);
   vertex(300, 800);
   endShape(CLOSE);

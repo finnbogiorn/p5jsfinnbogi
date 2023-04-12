@@ -41,10 +41,4 @@ function draw(){
 
     angle += 0.1;
 
-
-//    breathe = breathe + random(1, 5);
-//    if (breathe >= 300){
-//        breathe = breathe - random(1, 5);
-//    }
-
 }
